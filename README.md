@@ -37,5 +37,7 @@ a função definida no item anterior para essa tarefa:
 ins :: Word’ → Int → Tree → Tree
 
 f) Percorrer a lista com as duplas de palavras e linhas inserido cada uma delas na árvore:
+
 mIndexTree :: [(Int,Word’)] → Tree
+
 A impressão das palavras e índices deve ser feita percorrendo a árvore em ordem.
